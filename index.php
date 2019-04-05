@@ -1,2 +1,2 @@
-<?php incude_once("about.html");
+<?php incude_once("index.html");
 ?>
